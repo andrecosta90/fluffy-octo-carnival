@@ -1,6 +1,6 @@
 # fluffy-octo-carnival
 
-Summary of the book Trustworthy Online Controlled Experiments
+Summary of the book **Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing**.
 
 ---
 
@@ -10,7 +10,7 @@ Summary of the book Trustworthy Online Controlled Experiments
 
 ---
 
-# Part I - Introductory Topics for Everyone
+## Part I - Introductory Topics for Everyone
 
 1. [Introduction and Motivation](chapters/ch1.md)
 1. Running and Analyzing Experiments: An End-to-End Example
@@ -18,7 +18,10 @@ Summary of the book Trustworthy Online Controlled Experiments
 1. Experimentation Platform and Culture
 
 
-# Part II - Selected Topics for Everyone
-# Part III - Complementary and Alternative Techniques to Controlled Experiments
-# Part IV - Advanced Topics for Building an Experimentation Platform
-# Part V - Advanced Topics for Analyzing Experiments
+## Part II - Selected Topics for Everyone
+
+## Part III - Complementary and Alternative Techniques to Controlled Experiments
+
+## Part IV - Advanced Topics for Building an Experimentation Platform
+
+## Part V - Advanced Topics for Analyzing Experiments
